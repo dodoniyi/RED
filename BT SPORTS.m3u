@@ -1,53 +1,44 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUtygjAAANADMQwSgiYLF2AJNEocUASzMx8nakG0Bqjj4ftel7AR3vNz86vmYIMAFSynj%2fYqHfKz3kwzAwqNp7qr3jQr0jS8rVgKNB2yM33KgF485vOGcWkBqo9dt4nbMSGvIugCme1TR7VNiUiut08xHZKeDKdZv0YnOw95tB9GlH8GYCvOekb9hZlOcfmBWC0ghqErtb9woRS%2biyUCLkY48DFSgRTg45X4y7M7Qim3by7s0erINyGEavst8SMj6SMMkq1HLyvd1fddr585Gq9j86pNa4SjjuYQgzYSDk9Y%2b6dJdXNEsVz%2bA188wdoPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]Copy Link: https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jFW65aHfagsokqjwjbeJGLUpajs0k4%2ffs9BTCSraPnEA9cghf1C14KThjzZRMnWix4%2fNin138echwGBx5bvNzLQRAuOsURNLyKthEKOonazZT380Lwc2vA8eru47Ies7tqmUM3DtGKnMdjDG7DsTBUSaNTwdCyqdz4FxDIuSvSkinvr2FsHlaUD3VC40CxF50xTALd3CrDBXgN2teds94Zn577S4Xyadd9Fn9Pdstz6u%2fKJyKtb3ttRwD6mIQ5mbNaRc0j9Nln46%2bRdnG3JBvmMQ5x6Ki4TmMI5HNPIp%2bbojDADnUevfyjHSJULQR5wv%2f4BKKUefSMBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] BT SPORTS CHANNELS [/color]
-http://sniperstv.com:8080/aamobiletv1/kolchitv.com/
-
-#EXTINF:0,BT SPORTS 1SD 
- http://46.105.112.116/?watch=EX/UKSD_BT_Sport_1_SD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS 1HD 
- http://46.105.112.116/?watch=EX/BT_Sport_1_HD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS 1FHD 
- http://46.105.112.116/?watch=EX/UK_BT_SPORTS_1_FHD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
-#EXTINF:0,BT SPORTS 2SD 
- http://46.105.112.116/?watch=EX/UKSD_BT_Sport_2_SD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS 2HD 
- http://46.105.112.116/?watch=EX/BT_Sport_2_HD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS 2FHD 
- http://46.105.112.116/?watch=EX/UK_BT_SPORTS_2_FHD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
-
- #EXTINF:0,BT SPORTS 3SD 
- http://46.105.112.116/?watch=EX/UKSD_BT_Sport_3_SD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS 3HD 
- http://46.105.112.116/?watch=EX/BT_Sport_3_HD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS 3FHD 
- http://46.105.112.116/?watch=EX/UK_BT_SPORTS_3_FHD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
-
- #EXTINF:0,BT SPORTS ESPN SD 
- http://46.105.112.116/?watch=EX/UK_BT_Sport_ESPN_SD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS ESPN HD 
- http://46.105.112.116/?watch=EX/BT_Sport_ESPN_HD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS ESPN FHD 
- http://46.105.112.116/?watch=EX/BT_Sport_/_ESPN_FHD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
-
-
- #EXTINF:0,BT SPORTS EXTRA 1
- http://46.105.112.116/?watch=EX/BT_Sport_Extra_1-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS EXTRA 2 
- http://46.105.112.116/?watch=EX/BT_Sport_Extra_2-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS EXTRA 3 
- http://46.105.112.116/?watch=EX/BT_Sport_Extra_3-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS EXTRA 4 
- http://46.105.112.116/?watch=EX/BT_Sport_Extra_4-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS EXTRA 5 
- http://46.105.112.116/?watch=EX/BT_Sport_Extra_5-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS EXTRA 6 
- http://46.105.112.116/?watch=EX/BT_Sport_Extra_6-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
- #EXTINF:0,BT SPORTS MOSAIC
- http://46.105.112.116/?watch=EX/BT_Sports_Mosaic_SD-uk&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/zwAAAB%2bLCAAAAAAABAAFwd12giAAAOAH8niagiAXXSjQqfZjGvOnu4Fb03IqCVbHh9%2f39ahAmF27%2fi%2bG4DcwVhN7p1GtozNNaR7rvXkoO5I%2bC9Ao%2fB%2f%2bzle1I4WErOLziR2nCnRNI%2fSwe9WXoXHytEfzer1sTvFHOViIs%2bIeJZ%2fNAkmNIYGBq7497EIlPZeo0HdJSIBHwhoo6S8Hh09EPMHz5TatqMcuiLTtnl5lkURlgLjZZbMVX4%2b5q25vOjfnBLNhbLcpNt1hKsU%2frKHxRs8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS 1SD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwcuWgiAAANAP6nhIpJRFCx9ZphOZZehuNEJGybQw7fTxc6%2fh90118UYuPzZruwjg21bYNLgHVTvp3ak57JWHvaf1OmMuABVGSN1dyD8XuIjGiAd1fsvMDpxB5CYqyYtaJgBM1gwR4m8k%2balYIYPnJ4c0Lyl%2fHdIQkjpbNunpEdzI6yGfl7nDoYz9ch3jWZ6qbTvcndrh6TKaXdvGw%2b%2bQeWQ0kWC4OEZySJNHEtonGot77w8posLJlvvxXPH9Qk2Jy7osr9XwBs6RhWOj%2fHSjuzFffXekboy6En%2bbLXJ%2fVf9F%2bGoijBZayXRTQ2Wha7i0oIYtbOjYuhplAb9tnzG4pj3253KMYnBYQ0fYq9U%2ffh%2b0PjsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS 1HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwd0OgiAYANAnYhOkyXfBRblZEVCAaXUnoNYFa62tv%2fHwnRM%2fs06q8b1sCqn3dtDGvKffyoXbuCTCice6qDtpB3jy7IWqjU3oAHevO7vLFGJFgS5QGHGFaPAYQWAEAYMSA4tl8CQfL7I9KZw2cHZbhdvvy1%2bnmfM%2fgBKIensAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS 1FHD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwdEKwiAUANAPEmFumt4HnxrbDIqZBLW3XW%2bRA4lGtIp9fOeEzj3QFVO7NX2R6pbNSQwY5hCPfnndL9qfpqCIMWbs%2bsGDIX2jGjbfZlD7VQJpCVLxeBWay4iCQzQlBwOVAENVxHI9p27XuF9esB%2ffklT2zzx6a%2f9jX82vewAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS 2SD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHWVTCFpKDB5ABI4sKMlFuhEUQZZHgoOXjp1sYO%2fbnNGELnf2w7ETX812jg%2fkESCHrW72t5Rd9zo59TuPZUJKAfWC19ZF1iE33BfzNwz3aRydgwmrGpWO4VTmauhrGKtsrNLtSWI5AjPVPpfZCDnhG1ZiSWvjaKsnufgxAAelJg76dhW8RpVb%2frDIMzwBB5olkNYR9knI8KI3bdRYzW%2fY7XP6oSdGp%2fExRah7Q3A%2fz7XKrWppcjrk5t95Uu90SeWVeIO4HIHjeZQ7X3%2fqRseSAX9IyRvAa4q9GCkMjmi7lpWxIWs5lieRYkQgmqkxwoeZc%2bY75my3mcTO1yD5vvQzdY6Mw1%2bt%2fw0HYnzsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS 2HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwd0KwiAYANAHGhJOnX4XXiTRGGT7sTbqUm3RWhRmReHDd87bt6yvX1p9s1bz60QsD3Nl4kZtC1eMnV%2fdDv1wHEPYywRRI3WpjdgNja7wOlHwnAJlyJ0wR9RZjMCJHIEAgkF44myeTNlMfF5k9%2fOHiSg6U%2f4ez6WUf6AUgEZ7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS 2FHD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwd0OgiAYANAnYvkBCt8FF2053Jr94NLu2gDlopptSVjj4TunAjaCxnuDRtQL7e3pHednihC6djGuDnKYxKdZRyxU1vLiC3ONyHW4HbpX5ugFR14SN4Ig3Fkg6CQlKJEBSs%2bcpVnsf4%2fjmtrUum0F%2feY7zNPurNQfoip34nsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS 3SD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwd0OgiAYANAHaqz4UeCCi5peqLVaSdhVEz5qq3TZzxiNh%2b%2bcMushxndlyrY1ZrEP%2ftTVHjYTv8XwqyZYfQ3JL%2bYTtUoPIPS8HZ51Tod7cz0mJoEzyTLkPOaIOYuRdIIgKSTFUgB1lqSDbXdBz0f9GtdF42whZj0slfoDST6otnsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS 3HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHisF%2bPtm%2bi10USxIWJGF2q5umCVYzWcgevnOoYXT36GPZRH4JUH33Qrr78Xzqb6Eu1zEUKp8tMv9SOvFwyJetkyaObhV2ToBeAkJGXMckAdcygk5xggoFQ%2bWFa3nalgp%2bw%2fSm108zZXaoTfG0Ues%2foPDT%2fHsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS 3FHD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/ewAAAB%2bLCAAAAAAABAANysEOgiAYAOAHcswBvwkHDsycW%2bXKFeE1fvPgGNWywsbD13f%2bbO70t1tX9e0IZ1aPjS160W7CM%2fqhhHk8LeaSB1MdPlqlLaxAvB4xGq1x6n0C%2bU8SCoJXWhJAR4lEwYgUklMpBo6OpWxqATF%2fz%2ffAs2ah%2b523oVPqB%2f1hIaJ7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS ESPN SD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwckKgzAQANAPKqFOEjU5eDAgQlyxBdGbjlvwIJaStsGP73uPwDt0batlNW0DeZkqWmYQoFanONZY3ZV2udPFNifRdbRq7%2bx3aQL4ZV6YXVxOIZfcJzhDSDiOQCQKSqSQDKSYGI70MtrYradpYf1biWJP4nZjYqjfeWo%2fHNAf2NPp3r2qLvoDTROhO48AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS ESPN HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHkpGbU7%2fvwgszE%2fMHUmaxu9xSi6ZBZSQ%2bfOfoSJZDXZxF%2fvR4ar%2bN1cUlY2KOoLp4tt%2fQLGaL%2fS0sCNYfzrE7CTxxWXdin64ctc%2bRu0RdqU%2b4ailBBYwgoEMRtKNatgp1y9PtC7IdJqA%2fd2kS%2blg099zjUPVhuBmn3ozmUMs%2b%2bANES86QjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS ESPN FHD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHCqG5z7ZdeBGmyEymGTm7dH%2fWUIqSdeHDdw62O2jVIgPv8%2fIoQv1x%2fmpplcPLDjhGPz24Ign8zkO6GW%2ffRp%2fq1TekRA5vwDQBBkmkDCIRqBFFTNE4YpRhxKjGaow3GSBrqnm5ifWRue4ivSFPbkHMXnbicP6iVk1TPxf7PP0Dksedqo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS EXTRA 1
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHklGb0%2b278CYnJq6oRFIv%2ffyJgVAuNcWH7xwzMBP9BIVk6MIba%2fvZqQb1qezYJzJPbcbtFU23Gh0Fe%2fqaikVt6lTIKWnO4c6hERy4R7ClgnCsKQGUjIAEl4JsXKzZjhdPCP%2b4qdVpY6qfNtPvsTxUmJfhIo0uO3isxfz1x3vwBxwzmC6PAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS EXTRA 2
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHihFzP%2fpdeKGCoA7zJyq8CbcJUwlmamb48J2zfuPHVMm5D4QcpclprdmeF5OJboYuTHy6csvi0A7R5h%2ftiJtsL%2bwPyu5JdHtQ0C4FypDqsIuokhiB8hwEHhAMniZKOocz2FMYXM71%2bhZsLpdXxhfWJGmiq0kUd07Ca1r13OYk8f%2bnR9mljwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS EXTRA 3
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHioFzi%2b278CKb%2f6QmSdmNtJ%2bsLKIxDMOH7xwZ0eqlWzYKNwHNeNKY%2fa%2bdc8hjexnT66ycPd%2b7dxnyYOnFkZh%2bg%2bOwKgZboIWCZhToGimDGaJKYgSK%2bwg4EAxcEyX9BYsVK01RToeo2Ul%2fSLfPzxifMu%2bR1PZma68RrgPbCvcN%2fmryrdGPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS EXTRA 4
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAPilG729L74IOoTCOlDEx907kCtcKlKeLHd05fDpcZXR1Mq1m%2bbbcrhi4SVpsV7ABTWb08iSOc1sA8nc2YECGJ9TFh7nKj741jY3HkgihNLcJVTQkqGwjayCjaDVM1bGJNTejlHUA%2fm%2bqXjtknac%2bxvKZS5vu7eJQZ6NFTPo%2bcP2pJSQ2PAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS EXTRA 5
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAUAOAHirF2NnPnwpvEyMyYISheetyCElTIn4UP3%2fcBTdX31g%2bDqXk2L6VLyp%2bZPIzvNDgdrk5cihQqyXm4Rrt6Htvak13P2lo3rbvCLlSoAkZWhExRKxiSBoYapUDdSWphj1XRuUefyZe3nybZZg3jZjgucZWBNHQfTTHnznudR3%2fQqkZmjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS EXTRA 6
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEKgjAUANAvGuh2y90HH0TFzIiKcuHbnA6d2KwZVvjxnZOINJGilCboF81cTtvbKZNl%2f94tg53amf2Eqe6FYtaGa1pRkM47593TjPGrWAGbABA2RLV%2bQEDVPkHFKUGOzEfeMFXTFT8OBBr21fKRd50eIqSHWDfHaWuuwOfRi%2fYXnVpYXPgH%2fh90k48AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,BT SPORTS MOSAIC
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUkOgjAUANADmS4Khf6%2fYIETSgS0AYnuaJGhdQBCghgO73vhZrzfcr%2bY3awyNlwTmYbxL8i2zYCtO1cD15%2bjHmn1Nd7CLZ1NxTmpOd1FqRELw5IzZA5RD8oJU5ISVGARBLQpQmkraS2OO3V538kJWjP7Ty2K%2bgPwjup4fRH0sHrtGwj6RrQn4%2f0B%2fxiiqo8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
