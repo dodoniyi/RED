@@ -1,25 +1,20 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdtugjAAANAPIkQGbYAHHzbkoqORS43Qt9a2gIGiBIYlfPzO%2bUXsY03zkK4pn%2fGGBA6Lpdm%2bJK37wM11yxYQKYM31UXoyRlK%2b6mU0StY238jsnINO4kP9vm5SYkwLtFBdCC3mPGI7uMtl5h0QWLwUI%2fdhu5gcybSv0FL10CrlFTdnrnDqb7MJvtEr1j5%2bc6k5K4vuSmBw0zgcmZSx4UmhT4QFhWeJ%2bEetzCe6VYl5LuYSfA6s59rAt5lQUtyGIjLFkrikOMbLJQFVTzA6MqLVRTL4p1wJSFmyu8nTUY%2f6wQU8KHWrDke%2fwGkw5V2DwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]Copy Link: https://aamobiletv.blogspot.com[/color]
-https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
-
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwdF2giAAANAP8ngkldCHPShqVmuK1tLeIERakjZ0laeP371A3SrjMbTVp2EN%2faUfre4s5j3oouWkaNLO1aoWReQpuUZtZuBcNXV8C7PEeR3w7OM1vpJLcN5koE4xOHdJWA2wyHTzsC5aBrXsCZ9Ivpr7HdQ%2fjBTI1uFWL%2fopHNMlp%2b%2b27GR6rzTD%2bxwBNL6ZEBz5gpvCdZjpIs5M6iBoUui7DaCN5wn41t9xgXV0Aw86kcWmUe69nCS0X3ThhcPvsQOJSp6GX%2b621dHlW3n6k7Rzke1ZLD%2b0PMqcJzS%2b0qCGcUmj9VVgbp9ISmKpxuGZzQEux4Av2bX%2f%2bAf%2fXrAxIwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] DSTV RELIGION CHANNELS [/color]
-http://sniperstv.com:8080/aamobiletv1/kolchitv.com/
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwclygjAAANAPYhiWEJYDB1KQRRTSgMqRLUqTdtgEYfj4voeGQjD7Al%2bKM4eIJZseC9%2f1XXFrnHnDeeUA%2fA0LUU8vf1m7jW3RBJ%2fzlEAdriWaWtL1bpDqz4emOt6VNWlKs9Nq28d4M%2fbxp%2bafWd4C5MVHRWljWLQRqQYqUTOaSiyBAcUSWlorl61pUniMb4tH0V6S3L32Lyv0F5xI4R6QgUgfZUdfmQKWYcwx2AXQvmVzbmWUq%2fj%2biy8%2bYsjiDjIlFt7ibukizro8yx%2bObf8De2GQmecAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:0,Emmanuel_TV
-http://46.105.112.116/?watch=AFR-EX/Emmanuel_TV-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
-#EXTINF:0,Daystar 
-http://46.105.112.116/?watch=AFR-EX/Daystar-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
-#EXTINF:0,FAITH 
-http://46.105.112.116/?watch=AFR-EX/FAITH-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
-#EXTINF:0,One_Gospel 
-http://46.105.112.116/?watch=AFR-EX/One_Gospel-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
-#EXTINF:0,TBN 
-http://46.105.112.116/?watch=AFR-EX/TBN-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
-#EXTINF:0,Trace_Gospel 
-http://46.105.112.116/?watch=N-EX/AF_Trace_Gospel-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
-#EXTINF:0,Trace_Gospel* 
-http://46.105.112.116/?watch=N-EX/AF_Trace_Gospel_South-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwcdugzAAANAPQohhiOGQAyOhgAgNhHmpDGaHveoqH9%2f3wtMa02jwpfv3pEeIGSCPsym%2bdGZtk7kyzXNbAVjUF4P%2bupblasI29a5VVLI7s%2bWoG6Ws3c6YYdZ%2fCWXysq1B9YzmkDhCkX60nsPuucVt4RuPmkABU9hpYSbXIAIbaTWOYdiDBPDtLu%2fRiHz5%2be6PMHE8xY1uucAmlXPX%2fZxvn1SqPjrBU3dCyemqyIFrzWguVnsLl5bZ8WlT0drEDM%2ff6iFG2FAmLxd1zVDMvgq0QQ2uH7S5vP67xJfWLM2i%2bvlkZYmhXGK6FEBGCxBnNAJQpJEoCwWLCkkqxQ%2b%2f5pF2PDCHwe4TFTrWCLTzev0HYhz3szsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,Daystar
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAANzEtygjAAANADMQxBwm%2fhAnQiCAGpJFZ20CSjAhErUsJ4ePsO8NRlvGeVdkFL4Bm36phqCvcJgMCX53zVRNjs72342iBnOwSzsU98ueGdz8H3OENtWeFTViae7McDoQkj9Y5Pyo3oVcPzZJweX3s2mdZ4M8688rIivTQ%2fmMQemgLLmVFcOrewJ1YeZGdp2llepONEW3e4RneZ%2bGFXVqhi2ySlLMgGoGJFQZ0aSAyhxgk4oWHHF0dEcE6L9jDHC0Gh8rq%2fYr1%2b1%2fARY538tlRKOXL6boRgri%2bYLqDV6NBljV5brq3Xtg85qLnnCftd4O75epr28Vk9hFQ7rdzg%2fL%2f7AOjCYrMnAQAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,FAITH
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jEucakHD7bVRRUlLN4iEUPbDWnXbXx8z0nTzoZR7ZrE%2fdqq1MHhMaK2PxXdGCY4Qy8GdSaC%2b1h7rBFL316lW9pV%2fZA%2fUrd%2fb3h5ej6Y5yR6tG42NZw7%2bWUuVKNBI3lXJGYvPshPsV%2fixc%2b7P9HM8aZfMPqRkKRBj4HCQU%2bDtDT5dfCM1%2brblq84BuUp6ZcBtPpRHvX7IvZBDcoAKgM3AvY%2bKYSJnvpf6L62npnHUH5K4yCGWJnw%2bWZZO4UwvFyTHJpy1qLptteUEsOkRKAqqAXVILWAgKEJSDPVRkLN4UC1vVI4l9diNY%2f3MpYZ5bPaHmzL%2bgDNfcMQJwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,One_Gospel
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUtygjAAANADMYwkAiELFwLR1kAof8kOhAgGhMoo2PHwfY8Hc2LZSmaX1CSO36eRVHIgJWtOL0AbL4vSpkq88C5clEPfJA1mNdGji4z%2fBmlNcPHGC%2bFA0tft%2fsXQc23Z8ziFBjrRCXvfSJlzmJh64lRD%2b6gU8JQF7OHE03KZl00O3zX2lu7NbN9lP%2be3A8EtfzxgPOtY4wo2u3A4lMXvRg8yx4VjeI1j52pBlq9NaY3kuhwZARSnRaBxsz0cBEcJKeY95cSExdThs%2f2KV5Ov1u6Dxdj2xGizeE3dQXafSogaYVGrQt9Wqo7qSi23yFBLA%2buNVjaWJYxPf4tG6jM51QGg%2b2rj37U%2bCne7f5YrD0g7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,TBN
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwduSgiAAANAP2nEyk5AHH8BF7EZe1hp72VERLSyt7CLTx3cO4mnQ8WV3Z2JxwCB4RmEWhsNxpE0pXlH83l550Wsmx1OlU8fahOue1rtFmpfTbo%2bkWid0O7xajClprJ9uagXLiXggWSt%2fNMtkp4O7R4fHRN393LYa%2bwDoQHRiHYrJEQ4tQnuJsWBvr%2b0jui%2fxqobdrUqJd9momUiA2ZH3Ct5MeJ5DCH%2fzy237bM6jZMgxOVdppKeMq7oHjIuTNINYP1Htup8r0X6GyUr9j5nKMv4ppBQQSWFIe1YYNhSFkc8gMHKA7MrMK8eR4PPXh9EcUwjils094gDgwxC77heZvB04JwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,Trace_Gospel
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUtygjAAANADZRgViJGFC6VpnUT%2bWJBd%2bCSIVYKgQIbD9z1zGwu7kbcMSN0E3X2OM%2bEFCeHfZ%2bUBfQzygQl4xklKx9iNxEm07eeWINXNDhLAAcgZ5o3NqWsoX5VdHD6HOYpovMFkJSbTxOR5%2fbtS15N3f8ic9BiOQNGaHOroUoPPl4XgqhT1zjd66%2brqp837BKSnc5QYklvdOrIL2dOOsBBVRWWNqY0TLzPIsWvkjwOHps9w8FskmASPOn%2bFfesWrT40HleH8XL2V8qqetk%2fnGK%2fbC%2fiUQ6Nq70Em5zps%2bScl8jipcZNI9dMVOYaMxDUGLTMas2q3Y7DJWgUeE1bDxO9rGH6ZpC6dNzv%2fwGX3QfJOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0,Trace_Gospel*
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwVG3QjAAAOAf1HEq2xoPPWDEVS6iS28z20JdQlGnH9%2f3RT%2bg9Gr5ijrzamSttNLBamqd7Ca%2fkpcrzZe%2bq%2f6yO5Fk0Qe89sYem8P55cQlnrIi6yRuzcAORq33XI%2bac7pxlsPl1P7lWeivAt6gyGvgJvbU07rFSI2PduWY5GiPU5%2fYK%2bmzg2UYYQeZkd%2bZBPZ9XwOSJPzJH%2fQ92DWvssQvw7QJ%2fTH2oAZ5V8wJAMbgChUnuuPmJJpAe7PqES3bQ9ig9tjE3TVwQUz0d7bOHof%2bQdn204u8%2bd%2bbe%2bakFXPm6FMIUWJdlIqAoFAgLguFAowUinTIV5RrmkAf9pzyQWrny1zNu1t1686LBZXb7RdqYLBBOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
