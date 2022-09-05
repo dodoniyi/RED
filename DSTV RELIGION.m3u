@@ -1,42 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]Copy Link: https://aamobiletv.blogspot.com[/color]
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
 
 
-    
-    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] DSTV RELIGION CHANNELS [/color]
+http://sniperstv.com:8080/aamobiletv1/kolchitv.com/
 
-
-  
-      
-      
-        
-
-
-  
-  DSTV RELIGION CHANNELS
-    
-
-http://46.105.112.116/?watch=AFR-EX/Emmanuel_TV-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENTEmmanuel_TV
-http://46.105.112.116/?watch=AFR-EX/Daystar-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENTDaystar 
-http://46.105.112.116/?watch=AFR-EX/FAITH-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENTFAITH 
-http://46.105.112.116/?watch=AFR-EX/One_Gospel-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENTOne_Gospel 
-http://46.105.112.116/?watch=AFR-EX/TBN-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENTTBN 
-http://46.105.112.116/?watch=N-EX/AF_Trace_Gospel-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENTTrace_Gospel 
-http://46.105.112.116/?watch=N-EX/AF_Trace_Gospel_South-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENTTrace_Gospel* 
-
-
-
-
-
-
-
-  
-  <a href="javascript:void(0)" onclick="location.href='https://aamobiletv.blogspot.com/'" target="_blank">DOWNLOAD AA MOBILE TV NOW !!! </a><br>
-
-
-  
-    
-  
-    
-      
-    
-    
- 
+#EXTINF:0,Emmanuel_TV
+http://46.105.112.116/?watch=AFR-EX/Emmanuel_TV-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,Daystar 
+http://46.105.112.116/?watch=AFR-EX/Daystar-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,FAITH 
+http://46.105.112.116/?watch=AFR-EX/FAITH-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,One_Gospel 
+http://46.105.112.116/?watch=AFR-EX/One_Gospel-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,TBN 
+http://46.105.112.116/?watch=AFR-EX/TBN-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,Trace_Gospel 
+http://46.105.112.116/?watch=N-EX/AF_Trace_Gospel-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,Trace_Gospel* 
+http://46.105.112.116/?watch=N-EX/AF_Trace_Gospel_South-dstv&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
