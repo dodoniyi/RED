@@ -1,42 +1,47 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]https://aamobiletv.blogspot.com[/color]
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdtyRDAAANAPMkbWPQ%2f7YGKLuHXpGLwllhJVgnXp%2bPie83Z1aeMwdMuaoHhc4FwsE86c%2fsButFhnp7cPIfXWxPFRpActZt70jI4KBf1YDT37gkqU7z2rUsHkk0zmPHMdA814LQvXzjtarv7IdQyVOPtMpYG30prA%2bHw4Ntu2NLnWxuuSCowh%2b2hOeSovhSo3zaRU1LUaiKpGVRGasiFSYMoKAFSnsL6em3l4zQIID1UplG8Zi16vBpF8ie1vhzL017cWPPB78CZLpbMP698BB4z1%2fEdDWwU7W9pNEsVSp6LCx8YqEG2%2f3%2f8BijyCng8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow]Copy Link: https://aamobiletv.blogspot.com[/color]
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwdHWQjAAAOAHcpzGbLaL%2fyJRUZuI0F2Taioqy5Hj4f%2fvww9ZvOJyw2t73%2b7cY1ebMki1Mr1Lukq9F%2fYys88xj2%2fu21Wyzzbd5eN9Vk4VUfa4RYuD94xrHrEiqIogaa8pSYMeRrTuzt85G5jtFPIUKOW0rOUDIkvfGxsEjrMOWfG9meBQcRj69Mm7ZF3elxMU0EBECB2jCugWEpZOiWnrAhATAiCwoNVE2izbjMdWWwN1yev5lZ3yd6aNeU9KuLWaAIXNbTtUajwYjhkaeyOWdrjbaoWCM43a2XhlGvvljvE4JRIQ7Da%2fb28lOPVX6CyVdBeVT%2fBFcfD3D6G9n7sjAQAA$http-refferer=http://linkprotect.xmtvplayer.com
+https://raw.githubusercontent.com/dodoniyi/AAA/main/AA%20MOBILE%20TV%20-%20INTRO%20VIDEO.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lZ2HDx1.png" group-title="", [color yellow] ELEVEN SPORTS CHANNELS [/color]
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAAFwd2yQkAAAOAHaoy1FuvCDYfjZPPXWuXmjB1biST5qcbD933lYE84n40nNfatCA%2byEs2wd02ZFEF3SMPfWwDhaNdeE%2bZvcXROV8Wb4yljU61t%2fJ%2fGhoVb3pKlGgkM9T8C5MqkiWWt9CL9Nyxt%2fCrdE9fdripXFQ1zLumaABLSOJJMDA2JAwxVALjOTbE27RJg8RKd1hYXOcw%2bUUR7hIaEvtmz%2f%2bSxt%2fPP1TF27PQsvI5vKasfJ1w6CC71g2VgnA3uwIn0yuArenG9b3bdYllfH7FLMucAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN SPORTS 1-BEG
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHTVEkhAgc5iCCrLKXAjdjcIQQEGW1fPx037v9WatbzYBRZ%2bUwOqPaaZIHlwJ2s8onhfPqmN3YjNvLWNZ2xsQaUXjZ10ppmWlvi52SnKzDGoUfEawRFSMbBvowNdanMzvuc%2f633o8n7UmNMYV55eTZZl%2bDCHIn%2bMnDmxXwyZYLP1betuJOIwt83kYi16%2bx11cgy7i%2fbS%2bRsTx5EB2a1L4SuqRHtLxv9WHP7oW8MErHqRqaGPssU9IxMU6bufa%2bR9tX7cYFLgZDddTf73YZFteUDJehZQnx%2fEUEQawSIuxwBQQZE1nQVEkRCFAlBADZEa36mt4bOCUmtTQ31Mv6cJqLtNNo0Hv6sK8I4sBgR5vuSvb7D4rVTw5PAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN SPORTS 2-BE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwceSgjAAANAPchhKUJKDB5oUAWkbwJswoQQWgogujB%2b%2f7wU6teEs8IITLVsWE2lM%2fX2M%2fV63VCAvYboohEobBoNcsWgBmC4exG9HWy3MVwkfsnYI5oPjtVvxDOSkSYt5yg0V8%2b%2bwCjuf0jkxsm5y0ev%2bx6zRVXpr891NF6ZWHG5D5T2geJ13c835h48cpE2%2fQ7w6GU%2fYleWd8Yp0sYFBPa5GW%2bnyD3Y1U3vH0a2X2%2beQ9ipTam9TzUsbUnirmBPQBHTrwESMbEkENT58TGeKt%2bX8rcGdmYU27lumT1O1fkEJxCMsS%2b50JAInH0uZQ1BSuFKAEhCE8lQi8u1FWqOPvQx43l2CH4rvogJe4kmT8oNNmycBYUeIXjb%2b%2bR91PvvYTwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN SPORTS 3-BE
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwUeygjAAANADMYzUGBYuEIZPU1FEyo4QJEoPnfHw%2f702lXEy7E2wJcp4Laq717zhKtdXt8ihF%2f%2bBykrEOQ414IGmr%2fnZ4hqOr0tyy%2bBC5MJH06Pk66mzOZfQMut7eqaIyR8CMY5T8tGBwZTTwjzMJRi9WNbJ3JuHLe0%2bdVY%2bqyRoD1iFdB7A5ZP7VzOHB%2b2FVxSvLVn9UOvJYWm%2b8d6mF8e%2f36CNDH1uJOqK%2fphp76QDNCJr%2bVbmaBrv2Gn4WpMrJ%2bGsdEDkhZm47UOVH3JBPf1c246W7SzpGuu6WNp%2bIhJ5GSLEAjnnWElGEqtA4cgiDgoixyGAlPwXNyFODB0UTnDBt9wmhWmpR1d8CsOXtjxVvrtad9Hu%2b8vpHxINuIJPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN PRO LEAGUE 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHTVGBQAQPHmRkAA2LyBK9EQMYFg0ICFU%2bfrq9BeAmpxYkZ9XmJ7%2f4TVMRVwRUyfWjoeYGUrL4BGaZWLtJ1TpqmXn7IfQ8ROGtxkBXjjAQj7VZMSVg6cu43k%2bQHY5WqJePfSTP%2fgVzkCtJ2XajbbxKEKhrLWjEWQNrJ%2fw7hSUrNX5FBIxlW5S8vbqR2VjIaXsrwTpY3TCpIujjSMCNQNOPEmShEU9IvT%2f9Nbjgwh6pHlbs4s81esdscdQ3yGfWmbr%2b4ry3c8Wcz7vvqnE5buTU7b1DezeHr0pVBRmUShtUyJKGqCZtDahLVDagKst0Q7fFt9IJE87pqIzEdt9etqB6GFPPeua%2b8wgZEUky9MS8Y9na%2fQOdbsyZTwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN PRO LEAGUE 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwceSgjAAANAPchgiLeGwB8zQV5ESKbeNSxdLKJs4fvy%2bZ7jncGSRW%2fbpu6v11yqMgW5zFow9Icd93exkf8AF1h01WbIG7Zjp4ZOJX3BLESm4nC3Wu1AZzLGnXeWfct0PFiDlVAt71y5uXZVh7lQesaCeJlBGmvKSCUjWW2sXl8lqk28jqtYofJwe2pYu47ytf2JQ2phE8hoLDtnFYZoHMGV2GYTlbz8zvmwoS3UO%2fPsr7PN7nV9zGvOUg%2fGmzQO%2bP7ncuGcIbCpiy6vlIDga5OsjLs44YduPOg%2feTqj9qFTd64hSydBrIGk61SQTKVCiACkqANSgZv3h%2fjnzQlZlVSeIekwOWWZDZiQiJvnhgWHnauO1meYnsb7%2bAShlHTJPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,PROXIMUS 11 SPORTS 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwduSQzAAANAP6hgJQTz0AevSui16sy87oqF1Kdu0gunH7zlVvCaSnchFpIh%2bkRcwYsh21SHeMQ1%2bHdqbqa8LqiSQBZlOvAmXNkp28qMsg9mcYhdbwev19GIKsrEHDe2TmR2a3Xu0FFRm8aqK5O8uidd6yvLTO7HaE2tVKg9hRzPPPy4r4c2R5%2bLeJD6DQX8m3NvsU8Q1vJ6PbrtWD9UZR2UTbV7UKfVCyw1r7K6ZobAq7fbqUNSsEQ0421rCAIWenVyDk7PI70jU6O3yE1Kv58yo8%2b3H1H%2bpn7p3dvYNbwqHj0xkqGBCBFWhQEAKQYKOJU0gAEsyAEQlOv2kzeLAOJxxH3XfI7vUjgQh4nkUj9OQa0%2b%2bRE%2fA77hwwu0%2fYWOsAU8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+http://sniperstv.com:8080/aamobiletv1/kolchitv.com/
+
+#EXTINF:0,ELEVEN SPORTS 1-BE 
+http://46.105.112.116/?watch=A-EX/BE_ELEVENSPORT_1-be&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN SPORTS 2-BE 
+http://46.105.112.116/?watch=A-EX/BE_ELEVENSPORT_2-be&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN SPORTS 3-BE 
+http://46.105.112.116/?watch=A-EX/BE_ELEVENSPORT_3-be&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN PRO LEAGUE 1 
+http://46.105.112.116/?watch=A-EX/BE_Eleven_Pro_League_1_HD-be&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN PRO LEAGUE 2 
+http://46.105.112.116/?watch=A-EX/BE_Eleven_Pro_League_2_HD-be&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,PROXIMUS 11 SPORTS 1 
+http://46.105.112.116/?watch=A-EX/BE_Proximus_11_Sport_1_HD-be&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
 #EXTINF:0,ELEVEN SPORTS 1 HD-POR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jElcX3og2XRboW6Dm%2bNJahbIxTTj99zOoHl8KXr6n2DxY%2b4zEU1bmBlw%2fK88qhvxHeKht0M9Mm9XdaSuaua9othG0rYl5FGxMXvkRWIO3Ajp7rxwH9fSXgAil%2bC98BkmFn3CuneLOUfPZYYsWa0n29m1i1pJdnkv4KY6iT6ijREPd%2bADlEBgomU58CqZWJndI8DfzPcbU%2fj9Ph%2bHrawMWOu9vaUHizIbsk1iU6H6bHiXVuhU3e6xATB8gx9tsYq2u2sLrw%2buJw%2fdIqaYa4G2mRKN0X%2bB2IoSCrGnCyVPCdKWOQ0FSgc5lUAeR7LWCs%2fmnV%2f2ASNKBZdeSjWQTN9ABVWu62XWEVWHL9OrorV1Gbnf4WsqM1PAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN SPORTS 1 HD-POR*
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwcuygiAAANAPapwUX7Ro4bPIUnMw0V0U3R6kUFjq9PH3HDGmBSLPyzfm57h7JLioeNV0VJE6b06GM6lkBoyaX%2fc7AMyMbyZCgmIYZzOFScmtVTn%2fgrlVuMdTBJktGjvHXsdi2SWb0XFTqaahOARGnuiA2KbfVBKOyKsHlskeAhSF8hNaERKrgFVfZz5lJxUWzH9krmLJ7bzY0fVlgzgspvjdytG9Yzsu0fYe5S9hCG6%2bDmecZbXIU6%2beU2st7lMo%2fZhgdvyDTyeKUR20hx4LuPylj7zUhghuVypqKm3%2fM6lp2JBSzbGZrlk2tbQFBK5GdQhMXacOXbBfawbQ%2f3C%2fUqOnbkhH8k1eLdbDvpYGfjqp09L%2b2rUoKZf%2fzRl2eU8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN SPORTS 2 HD-POR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPakhboNgePAyorIMi28CNIkKkIsqe%2bPHz3vna4jIpBPYL%2bVPWg%2fue8dFwAA8bsSoDoYj0Q7Q4zo971bizxMk5njszA2XNNf%2bm2KnvpCBkTSWwtfm10gVR3xZ6mnx8PY50T7Ppw6vXKVjGbF5L7cbBehUOtb0Y%2bsPFbApDR4t3bPnt4OpZoJMyA2wTHtmJlzVuVmMCZqiwDNiQbydkznimXgWfZwYnON8N3h4G2THw2AlNyM%2fQpEW8XSDOL9fxDidhuvW7VHLy2n9%2fumefqScpSA4Jm%2f%2fkr8IVTCjnkkYqJKmEqxKj8k7iiMoKQlzjrPqmbn4EfqL9NmBBeIQU2H0TjuPqKAgwq35E%2fXSa0tFogv0%2fytfBPU8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN SPORTS 2 HD-POR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwUeWgjAAANAT8QwlQBYuKEMmgCBFypIgSJGOZvB5%2bPl%2fG6mnumHfAxlnj5qlbLPbTGnsKAty5gkIffCq6eYiwjr1%2f3L7jvXtuYZZK4sHS4J4OZWFmWHHaKatbteBIC%2beAynlr0WgjdLeOVdWl%2f7kxFuh9s8EXMj42pKPGlRuMpTUB7wxT3PTkJVdntqrte9v42Bx401pqFtd6EsKX5nQeHXFo%2fjDgDCMSrO1a9Treebmpr3N0QF%2f%2bp646qpa1m0KsRhQV4riHI24WJ2wOGHQn78TjYdO2%2f2dE0WfKdFXpCIPVUo5GVaAkyCVOKQKCkeBKogAUJmi6nssbi0J8v5GnvX4%2fJZhlM9ym5dEJ9Vyw%2fBo5AkKA%2b%2fO5PwP8bFZYU8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+http://46.105.112.116/?watch=NL/elevensports1hd-por&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN SPORTS 1 HD-POR* 
+http://46.105.112.116/?watch=NL-N/Eleven_Sports_1_HD-por&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN SPORTS 2 HD-POR 
+http://46.105.112.116/?watch=NL/elevensports2hd-por&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN SPORTS 2 HD-POR 
+http://46.105.112.116/?watch=NL-N/Eleven_Sports_2_HD-por&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
 #EXTINF:0,ELEVEN SPORTS 3 HD-POR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUtygjAAANADMQyfQISFC6mRYCMkKApuOgawrYAQaAAZD9%2f3up0UculoDELYk090NUbkdfhOi202ypUxpn0OYkaWkxh2f%2f1P0idNgEdpx8douWp7zDKHn74TGkQpVdiNkahe2qrMnKnTdC7H5dwbmYcPsK3mWzJHrG6ACwONhIhjqdHnQJTtjMQEUsIr5sJIKc40dUVpTPhSWYHiHcxN0c6h5merPAkZqRm8oOni7%2b3fjI%2bhn5zruh8%2bPKWcJTPyQW7W6%2fejtSwxPRH4st17PDhvwIFhO5yr0C511bK5pbqOuVK57phA1znkbvlG8EgFbl%2f5tfE7hyBcEyGMciOp2SuAPtp0nxRjs%2fhWu%2f4HJXqv6DsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN SPORTS 4 HD-POR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUtygjAAANADOQxRAgkLFwptRH5FYFR2pJAiGobwCZHx8H2vHQ3wKHQZyhVNnVEiUXlM2faie2lObIVCbgfUGcvudu6%2fSd6RDScBFFBHj%2fZU%2bYe4J4Ouv1WqAHfMfuwCX7g1U37DIjm9tuYUlQn5upb%2b4A%2bipZ5MoMfeQElirznGN5W9ds28ek3mpQtNW%2bvSF%2bUNWYxbWYHXwbWGYXETJEAPOb2rGQckT1BGwsvPfB8fV8v8%2bzkKmMZxw2uCN8%2fqsN9%2ffquKdfG7uD6ZKsS4fAxqbE1MqWaZNdCgSaFm4x3SKMA7AwBqUbv%2bsLPgQdmXCznXkzMG2RFtIxq2eSPn6e5CGTl6kZyYzw%2f7fxUrQMg7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN SPORTS 5 HD-POR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwd2WQkAAAOAHmuPsxIwZF13IT6s0lm1CN3uaEEIkpTk9%2fH4feNjAdndhtk8PZf5L4yopjkPkvZnZOn4DshEMRsdyWeH1JMd5Cpu3H852K9M6aayUomcpIWubZsPgjxVlFh9IVMSn2qkvKD28buWR3h3UBiYfv56drJJuYXrXOAwlv7%2f0gFRVKGjkBCrrXx0fddD7%2fI793tYCv71Jd6rJVgvbfTZahsEegN94scmxuSrgl6qh8dlBTBuaznRxja9rPpX2Zbn8rPLdeqsTIi19rvK%2f6KMJbYGpEIqOc6ggLJBiUJUoAlJVg1Dowsg%2fyD0NgE3pZMZ8a53toUyA57j9d5cgRozKQzCzgDa02Xn5D3K%2b0UQ7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
+http://46.105.112.116/?watch=NL/elevensports3-por&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN SPORTS 4 HD-POR 
+http://46.105.112.116/?watch=NL/elevensports4-por&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN SPORTS 5 HD-POR 
+http://46.105.112.116/?watch=NL/elevensports5-por&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
 #EXTINF:0,ELEVEN SPORTS 6 HD-POR
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUtygjAAANADMYyBACYLF9TUEFJQvgV3BgVBiNIJig6H73tayP0gSFb8ObnlUNwrA0ZzPVpJ7s7ZyRtR8lixoH8zf4yBRPv18JPRXVU7ACp5tapkfqP9rSAeOwLUxrnduyttOquslCgCMgcjRU6BnBvp7YcZGxwwrQX87%2fsUuwdjhK9kn8YldL1hcMzI52k3Re1JflUkKHZXpXbrcvbkNvM%2feQMZo8b5MLRdRbPWP0A8E8qIG0558Fs%2bOMaV4o3kuNlsFhwAxIs6PPaqUZkbLlBAw0ZC6I59AbplC0vHyFzrAiATAiAcgS9Lt1WU3S3upRhZ5OMp2JH7ccZplvPXM9zKSSOqNkpa3zb%2f4sVXrDsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+http://46.105.112.116/?watch=NL/elevensports6-por&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
 #EXTINF:0,ELEVEN 1HD-PO
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAAFwcuWgiAAANAP6nhADYSFC7XSSZrRHmrtIklNoilSXPTx3YuCICSXi2ukMqXea68bO1a9DtVO0nX7nh4ahJzvir7j5SZ9FGR5lXEtB9uJS7XfFAHCSi%2fAqrHp0Kcsec8os1lE%2f91s9ZfsT1l7W8qeGXBEszqUC%2b%2bJn8Fc1AJ5ZH1fzbxFoTKW5cch1etYRVCoMn9egAknlibbChZNb4JfbJp3TaufKQavvAHVlvBREzziqzweWiAmmGcyGVsKOx4Mje9%2fHC2KczTCs%2fHOYVk3H5e7NiKcWxgJaM0Rn1uUOJ7FIXFcCDnmVHzSkxaJN3b3KFlCNUy0uk074%2ftfvflqFScBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN 2HD-PO
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAANys22QkAAAOAH6jhjRjNYWISpxC1E1M4Y0h2%2fSanTw9%2f7rT%2ff3Neig%2bZDkR%2fJMyimmjVUf4HM51uP3%2bpTTnPzXHrbGUMN0BUR%2bzR%2fjf0N0Sa%2fOEWUlYvhBcb%2fEq7WNpo4jOqDr5560Q5j0vmBW3ZNDLoMAG3qLeUNnMaykyhMfadtFpFGytRJ3F8kwk9fnEEO4%2fNdniyM3gvOkceZexGXO6b5TMZGd7HKNj2qd%2bYzwsE4xOVPaNcwmNfVNOxIfNjwUF8ZxvfOrWPnmEeWweHgocdXYQrEGmMSwYUsLTFbSrqGVInJGlJkmRGmF9%2frdt9eC4HFkipkrirq4na8GsYfoRKmEicBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,ELEVEN 3HD-PO
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAANytu2QkAAANAPalkmxhgPPRg1buWUipw3g5ChKNfVx5%2bzn7dt7IHEl1I%2b3YuKWjYvYeTezu5pGsbpNfeL1W2TlX3S6pwcQIVGZMx16NQUSj8cszZqfVdSYCGSxbzbj9ENcVSMHvE%2bF3pJX2%2bWvpsdMswRAt1C%2fBk%2fH%2brvXASQf4azrmvmMgW53PeHJJdIGrdeTwh2p8ASCxQE2ioVDWrtxcRBY3XtQ3%2fK8fkY744wCntc%2fo%2fBKeN%2bZ7WqLob1KZkzj1aENhGePPW25O6bczmbybBcN1%2bTpIdocZrObzzq%2bvwrM3mtYMYEpGRAgAqDgoYlVWAASzIADDEt%2b2ZaXaFKG4wtASXpHt2a3id9s%2fkDknQe%2fzsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+http://46.105.112.116/?watch=EX/eleven1hd-po&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN 2HD-PO 
+http://46.105.112.116/?watch=EX/elevesports2hd-po&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
+#EXTINF:0,ELEVEN 3HD-PO 
+http://46.105.112.116/?watch=EX/elevensports3hd-po&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
 #EXTINF:0,ELEVEN 4HD-PO
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwUtygjAAANADOQwREgoLF9gRFJOAKJiy4xNpifwEjGY8fN%2bzSKyjxX%2b%2fId9tE3IleD%2bvBkAWuluLgzMkZ47z9CmPWYToKXO9%2bSkf8MLL6CfHTXDrXoObjgrAFOBKEBXskyx85Z5vyJsnuS%2bMqqT0pVSftf3k5yzUmR%2bRhqKVo7bUETHszg%2bX1SDYZwj2%2frEe48tdKrvKvse6D0JzXiv2F44hvlu6EZ6OqhIJc9Pm1TenbmB5RXQYR8DOpx7z1vudYiF5XwrY6oaoJu%2bGg6iE1mHzqZmnIqdsxbteSOrQj1mYa2QXhWYhDjSICqg5tvGlFcA2TAAKq3D4R9nbTl4DVGKWLquK6kk0A7nZ%2fAN4I8aIOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+http://46.105.112.116/?watch=EX/Eleven_Sports_4_HD-po&token=RED_Ozlgk813gbFlYg0ujDgUBw==,2233472377.5783084989&t=0&s=10&p=1&c=MA&r=31&lb=1 User-agent=REDLINECLIENT
